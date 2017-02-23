@@ -1,25 +1,26 @@
 ### Welcome to the page of Hyewon Jang
-I am Hyewon Jang (hwjang@seas.harvard.edu), a post-doctoral fellow for educational research in Mazur group of the Harvard university since March 2014. Here is the list of my ongoing projects with co-authors and previous studies. 
+I am Hyewon Jang (hwjang@seas.harvard.edu), doing educational research at Harvard university and Korea National University of Education. 
 
 ### The link of CV (the short version)
-https://jangedu.files.wordpress.com/2016/01/hyewon_cv_20171115.pdf
+https://jangedu.files.wordpress.com/2016/01/cv_hj_201702.pdf
 
 ### The link of research gate
 https://www.researchgate.net/profile/Hyewon_Jang2
 
-### I love music, especially playing of street artists.
+### I love art and artists.
 https://artistharvard.wordpress.com/
 
 ### Interests
 1. Efficient, optimized educational process
-2. Linkage between education and required skills in labor market
+2. Linkage between education and required skills in labor market (espcially STEM (science, technology, engineering, and mathematics) occupations) 
 
 On-going studies
 
 1. Identifying important STEM competencies using data of workplace
 (http://link.springer.com/article/10.1007%2Fs10956-015-9593-1)
 2. Pathways in solving ill-structured problems using network analysis and logistic regression
-3. Optimize the outcome of collaborative exams with automatic feedback and grading system
+3. Collaborative exams with automatic feedback and grading system
+(http://aapt.scitation.org/doi/abs/10.1119/1.4974744?journalCode=ajp)
 4. Peer assessment for development of students' skills
 
 Previous studies
